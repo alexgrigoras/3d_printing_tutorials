@@ -1,2 +1,2 @@
-# 3D_Printing_Turorials&amp;Quiz
+# 3D Printing Turorials and Quizzes
 
