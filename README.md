@@ -30,3 +30,9 @@ The site is a responsive one, which means that it is it can adapt depending on t
 - Javascript -> useful tools for 3d printing configurations and top of the page button
 - PhP -> verification tests, gcode interpreter and logging system (with sessions)
 - Ajax -> asynchronous communication with the server for displaying gcode commands
+
+## Documentation
+See [Documentation](documentation.pdf) for mode details.
+
+## License
+MIT License.
